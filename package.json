@@ -1,0 +1,19 @@
+{
+  "name": "@soyuka/jhamlify",
+  "version": "1.0.0",
+  "description": "Browserify transform for haml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserify",
+    "browserify-transform"
+  ],
+  "author": "soyuka",
+  "license": "MIT",
+  "dependencies": {
+    "@soyuka/jhaml": "^1.0.8",
+    "through2": "^2.0.3"
+  }
+}
